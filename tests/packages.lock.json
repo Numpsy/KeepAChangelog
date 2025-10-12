@@ -43,12 +43,11 @@
       },
       "KeepAChangeLogParser": {
         "type": "Direct",
-        "requested": "[1.2.4, )",
-        "resolved": "1.2.4",
-        "contentHash": "895vwfwdD52hTtmwZDQgXLlpbMia+vz+ZpkLCs7idBR+XD3mECwRULiBch4+1+7LCCW0FZMxKoG4GOD4VkqO9Q==",
+        "requested": "[1.2.9, )",
+        "resolved": "1.2.9",
+        "contentHash": "PjAL4uVWtDIJa8yXegoeehbpWedTOmZfEpWa52RAp5118F2Fq6nKPQxDtYeFoMnaNtRPGA3LAez0DCTX3qkBVA==",
         "dependencies": {
-          "CSharpFunctionalExtensions": "2.42.5",
-          "Roslynator.Analyzers": "4.12.4"
+          "CSharpFunctionalExtensions": "3.6.0"
         }
       },
       "Microsoft.Build.Utilities.Core": {
@@ -121,8 +120,8 @@
       },
       "CSharpFunctionalExtensions": {
         "type": "Transitive",
-        "resolved": "2.42.5",
-        "contentHash": "Do9Q7Nyfx2G4HRt96aB6yoP5Z9ic3jqBHLrf35tULzsWlFoBlkQZT62aXCiv7UmVmF56OUR+a3JoSSs140hfHQ=="
+        "resolved": "3.6.0",
+        "contentHash": "c+oWbfDKKjpOLPMxn/iPn1GL24YTJMtOiGfj0AsDKZ2v6/Mr6V7BfzfWLg6KqNRx3KRy3KcQE680SwvDTI/jcg=="
       },
       "FracturedJson": {
         "type": "Transitive",
@@ -237,11 +236,6 @@
         "type": "Transitive",
         "resolved": "13.0.1",
         "contentHash": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A=="
-      },
-      "Roslynator.Analyzers": {
-        "type": "Transitive",
-        "resolved": "4.12.4",
-        "contentHash": "isl8hAh7yFNjyBEC4YlTSi+xGBblqBUC/2MCMmnBPwuXPewb7XYnMRzT3vXbP/gOGwT8hZUOy1g/aRH3lAF/NQ=="
       },
       "System.Collections.Immutable": {
         "type": "Transitive",

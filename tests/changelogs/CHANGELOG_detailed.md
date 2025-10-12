@@ -11,7 +11,7 @@
 ### Changed
 
 - Better packaging of the task to prevent task DLL dependencies from impacting your project's dependencies
-- Updated the parser to provide to `ToMarkdown()` member for more general use
+- Updated the parser to provide to `ToMarkdown()` member for more general use [#1]
 
 ## [0.1.6] - 2022-03-31
 
