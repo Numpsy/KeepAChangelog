@@ -25,9 +25,9 @@
       },
       "KeepAChangeLogParser": {
         "type": "Direct",
-        "requested": "[1.2.9, )",
-        "resolved": "1.2.9",
-        "contentHash": "PjAL4uVWtDIJa8yXegoeehbpWedTOmZfEpWa52RAp5118F2Fq6nKPQxDtYeFoMnaNtRPGA3LAez0DCTX3qkBVA==",
+        "requested": "[2.0.0, )",
+        "resolved": "2.0.0",
+        "contentHash": "/bl8ciYA+ocIBVN0N79M390j/HplHpv4Uyta2orqxzCD5UnEFqWKmRvUtY+Wd3mzfKWH404F++TKWHebiT2Fvg==",
         "dependencies": {
           "CSharpFunctionalExtensions": "3.6.0"
         }
@@ -180,9 +180,9 @@
       },
       "KeepAChangeLogParser": {
         "type": "Direct",
-        "requested": "[1.2.9, )",
-        "resolved": "1.2.9",
-        "contentHash": "PjAL4uVWtDIJa8yXegoeehbpWedTOmZfEpWa52RAp5118F2Fq6nKPQxDtYeFoMnaNtRPGA3LAez0DCTX3qkBVA==",
+        "requested": "[2.0.0, )",
+        "resolved": "2.0.0",
+        "contentHash": "/bl8ciYA+ocIBVN0N79M390j/HplHpv4Uyta2orqxzCD5UnEFqWKmRvUtY+Wd3mzfKWH404F++TKWHebiT2Fvg==",
         "dependencies": {
           "CSharpFunctionalExtensions": "3.6.0"
         }
